@@ -1,7 +1,7 @@
 {
   "name": "ocr-proxy",
   "version": "1.0.0",
-  "description": "Simple OCR proxy for image fetching",
+  "description": "Simple image proxy for OCR (adds browser-like headers, returns data:image base64)",
   "type": "module",
   "main": "server.js",
   "scripts": {
